@@ -23,7 +23,12 @@
 			KYOTO
 		(ACCOMODATION) KYOTO (TBD)
 ---------------------------------------------------------------------------------------------
-16 Oct	xx:xx KYOTO Shinkansen
-		xx:xx TOKYO
+29 Apr	10:00 Osaka Shinkansen
+		xx:xx Shinagawa
 		 Kyoto Tour
 		(ACCOMODATION) XXXX
+30 Apr  10:40 Higashi Nakano
+        11:00 lesson2
+		12:30 lunchon
+		13:30 lesson3
+		15:00 school uot
